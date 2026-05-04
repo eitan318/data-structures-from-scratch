@@ -1,4 +1,0 @@
-Start with Array-Based Stack and Linked List-Based Stack to grasp the basic concepts.
-Move on to Dynamic Array-Based Stack to understand dynamic memory management.
-Implement a Min Stack to explore augmentation of data structures.
-Consider Thread-Safe Stack for learning about concurrency if you’re interested in multi-threaded programming.

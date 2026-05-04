@@ -1,5 +1,0 @@
-Summary of What to Implement:
-Binary Heap: Start with this basic type to understand heap fundamentals, including how heaps are used in priority queues and sorting.
-Fibonacci Heap: If you want to delve into more advanced data structures, implement this to learn about efficient operations like decrease-key.
-d-ary Heap: Implement this to explore the trade-offs between different branching factors and their impact on performance.
-Skew Heap or Pairing Heap: These are simpler alternatives to Fibonacci heaps and are more practical to implement, giving you insights into self-adjusting heaps.

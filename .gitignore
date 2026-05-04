@@ -1,34 +1,36 @@
-# Prerequisites
-*.d
+# Build directories
+build/
+out/
+cmake-build-*/
 
-# Compiled Object files
-*.slo
-*.lo
+# Compiler / linker artefacts
 *.o
 *.obj
-
-# Precompiled Headers
+*.d
 *.gch
 *.pch
-
-# Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
 *.lib
-
-# Executables
+*.lai
+*.la
 *.exe
 *.out
 *.app
+*.ilk
+*.pdb
+*.exp
 
-*.vscode
+# Editors / IDEs
+.vscode/
+.vs/
+.idea/
+.claude/
+*.swp
+*~
+
+# Generated documentation
+docs/html/
+docs/latex/
